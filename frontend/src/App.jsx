@@ -2,7 +2,7 @@ import React from 'react';
 import { Routes, Route } from 'react-router-dom';
 
 // Pages
-import Home from './pages/Home';
+import Home from './pages/home';
 import BSGPeople from './pages/BSGPeople';
 
 // Components
@@ -25,3 +25,4 @@ function App() {
     );
 
 } export default App;
+
